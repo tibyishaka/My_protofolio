@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 
-/* BODY - Default Background, Font */
+/* BODY -  */
 body {
   font-family: Arial, sans-serif;
   color: #fff;
@@ -18,7 +18,7 @@ body {
   position: sticky;
   top: 0;
   z-index: 999;
-  background: rgba(0, 0, 0, 0.8); /* Slightly transparent background */
+  background: rgba(0, 0, 0, 0.8); 
   padding: 10px 20px;
 }
 
@@ -42,7 +42,7 @@ body {
 
 /* HERO SECTION */
 .hero {
-  /* Replace with your hero background image */
+  
   background: url('images/1.jpeg') center/cover no-repeat;
   height: 100vh; /* Full screen */
   display: flex;
@@ -58,7 +58,7 @@ body {
 
 /* ABOUT ME SECTION */
 .about_me {
-  /* Replace with your about background image */
+  
   background: url('images/2.jpeg') center/cover no-repeat;
   min-height: 100vh;
   display: flex;
@@ -89,7 +89,7 @@ body {
 
 /* EDUCATION SECTION */
 .education_section {
-  /* Replace with your education background image */
+  
   background: url('images/3.jpeg') center/cover no-repeat;
   padding: 60px 5%;
   min-height: 100vh;
@@ -164,7 +164,7 @@ body {
 
 /* PROJECTS SECTION */
 .projects_section {
-  /* Replace with your projects background image */
+  
   background: url('images/4.jpeg') center/cover no-repeat;
   min-height: 100vh;
   padding: 60px 5%;
